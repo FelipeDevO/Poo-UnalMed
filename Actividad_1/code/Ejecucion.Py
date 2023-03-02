@@ -35,7 +35,7 @@ while True:
     print("5-Cubo y cuadrado de un numero")
     print("Para acabar presione 0")
     print("----------------------------------------------")
-    ejercicio=input("El ejercicio que desde probar es : ")
+    ejercicio=input("El ejercicio que desde probar es :  ")
     if ejercicio=="1":
         ejercicio1()
         continue
